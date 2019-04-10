@@ -7,7 +7,7 @@
       <robotNamespace>/robotis_manipulator_h</robotNamespace>
       <robotSimType>gazebo_ros_control/DefaultRobotHWSim</robotSimType>
     </plugin>
-  </gazebo>
+  </gazebo> 
 
   <!-- World -->
   <gazebo reference="world">
